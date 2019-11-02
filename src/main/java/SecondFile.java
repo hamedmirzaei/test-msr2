@@ -10,7 +10,7 @@ public class SecondFile {
 		return "Hello World!";
 	}
 	
-	public void method22(Integer input1) {
+	public void method22(String input1) {
 		System.out.println(input1);
 	}
 }
