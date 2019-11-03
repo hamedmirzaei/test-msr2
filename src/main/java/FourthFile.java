@@ -4,6 +4,6 @@ import java.util.Map;
 
 public FourthFile {
 	
-	public String method41();
+	public String method41(String int);
 	
 }
