@@ -6,6 +6,10 @@ public class FirstFile {
 	
 	private HashMap map;
 	
+	public FirstFile() {
+		this.map = new HashMap<>();
+	}
+	
 	public void method11(String input1) {
 		System.out.println(input1);
 	}
