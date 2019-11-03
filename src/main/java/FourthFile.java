@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-public class FourthFile {
+public FourthFile {
 	
 	public String method41();
 	
