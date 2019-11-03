@@ -18,4 +18,8 @@ public class FirstFile {
 		System.out.println(input1);
 		return input1 * input2;
 	}
+	
+	public void method13() {
+		System.out.println("To be deleted");
+	}
 }
