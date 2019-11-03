@@ -6,8 +6,8 @@ public class FirstFile {
 	
 	private HashMap map;
 	
-	public FirstFile() {
-		this.map = new HashMap<>();
+	public FirstFile(HashMap inputMap) {
+		this.map = inputMap;
 	}
 	
 	public void method11(String input1) {
