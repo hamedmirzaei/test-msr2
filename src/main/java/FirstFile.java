@@ -6,7 +6,7 @@ public class FirstFile {
 	
 	private HashMap map;
 	
-	public FirstFile(HashMap inputMap) {
+	public static FirstFile(HashMap inputMap) {
 		this.map = inputMap;
 	}
 	
