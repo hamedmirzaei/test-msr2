@@ -6,11 +6,11 @@ public class FirstFile {
 	
 	private HashMap map;
 	
-	public static FirstFile(HashMap inputMap) {
+	public FirstFile(HashMap inputMap) {
 		this.map = inputMap;
 	}
 	
-	public void method11(String input1) {
+	public static void method11(String input1) {
 		System.out.println(input1);
 	}
 	
