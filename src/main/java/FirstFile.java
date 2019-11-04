@@ -14,7 +14,7 @@ public class FirstFile {
 		System.out.println(input1);
 	}
 	
-	public Integer method12(Integer input1, Integer input2) {
+	public static Integer method12(Integer input1, Integer input2) {
 		System.out.println(input1);
 		return input1 * input2;
 	}
